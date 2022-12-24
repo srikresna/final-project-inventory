@@ -15,6 +15,10 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Want to see this project in Kotlin language? Click here
+
+[Final Project Inventory KOTLIN](https://github.com/srikresna/final-project-inventory-kotlin)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
